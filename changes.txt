@@ -1,0 +1,4 @@
+member 
+	start missing
+	promte user is missing
+	login as user from admin pannel

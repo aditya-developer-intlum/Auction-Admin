@@ -1,0 +1,12 @@
+   Add table
+1.homepages
+2.works
+3.abouts
+4.faqs
+5.faq_categories
+6.footers
+7.social_media
+8.refer_earns
+9.permissions
+10.user_permissions
+
